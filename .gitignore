@@ -1,0 +1,20 @@
+# Raw data
+data/raw/*
+*.zip
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Power BI / Tableau temp files
+*.pbix.bak
+*.twbtemp
