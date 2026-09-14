@@ -1,5 +1,6 @@
 # Raw data
 data/raw/*
+data/processed/*
 *.zip
 
 # Virtual environment
@@ -17,4 +18,4 @@ __pycache__/
 
 # Power BI / Tableau temp files
 *.pbix.bak
-*.twbtemp
+*.twbtempdata/processed/*.csv
